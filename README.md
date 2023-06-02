@@ -20,6 +20,8 @@ To do this I looked at:
 
 The [Jupyter Notebook](https://github.com/jj862/King_County_Flood_Risk/edit/main/README.md) is our key deliverable and contains details of our approach and methodology, data cleaning, exploratory data analysis, and model building and validation. 
 
+ Big_book_1 and Big_book_2 are Jupyter note books with non-directional EDA. They were primryly used to prepare data for the student.ipynb notebook. 
+
 * **Presentation**
 
 The [presentation](https://github.com/jj862/King_County_Flood_Risk/blob/main/Your%20big%20idea.pdf) gives an overview of the findings of the data and recommendations of which homes to purchase.  It is aimed to be between 5  long.
