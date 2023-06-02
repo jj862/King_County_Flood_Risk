@@ -1,5 +1,5 @@
 # King_County_Flood_Risk
-Want to buy a home in King County? Will your home wash away in a flood? Lets find out.
+Want to buy a home in King County? Are you at risk for flooding? How will your home hold value in a flood? Lets find out.
 
 
 ## Problem statement
