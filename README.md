@@ -34,7 +34,6 @@ The [presentation](https://github.com/jj862/King_County_Flood_Risk/blob/main/You
 * Numpy
 * Statsmodels 
 * Scikit-learn 
-* Folium version: 0.9.1 
 * Geopandas 
 * Geopy 
 * Reverse_geocoder
