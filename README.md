@@ -58,7 +58,10 @@ is due to the strong correlation between our various flood score columns. To det
 We are confident that our final model - with an R2 of ~76% - is  solid in predicting price.. Our test and train models were closely aligned.
 
 ### Results
-
+ * Lakeland South, Maple Valley, and Fire heights are locations to buy a home if you are looking for a low price and low flood score.
+ * Esperance, Bryn Mawr-Skyway, and East Renton Highlands and the surrounding neighborhooss are ideal locations to buy a home if you are looking for 
+ homes with a average price, low flood score and recently renovated.
+ * Purchase a home in Kent to see a potential value increase of $150,901 to your homes sell price. 
 Neighborhoods are highly associated with sales price; much more so than zipcodes, cities, etc. Onehot encoding the neighborhood feature gave us our highest
 model boost. 
 
