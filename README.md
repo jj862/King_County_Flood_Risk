@@ -41,4 +41,5 @@ The [presentation](https://github.com/jj862/King_County_Flood_Risk/blob/main/You
 
 ## Contact
 
-* If you have any questions, you can contact me at nzamersi@gmail.com
+* If you have any questions, you can contact me at jonah.devoy@yahoo.com or www.linkedin.com/in/jonahdevoy
+
